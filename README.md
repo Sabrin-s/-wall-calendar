@@ -1,4 +1,4 @@
-# Wall Calendar — Interactive Component
+# Wall Calendar-Interactive Component
 
 A wall calendar that feels like a real one.
 Built for the Frontend Engineering Challenge.
@@ -13,7 +13,7 @@ cd wall-calendar && npm install && npm run dev
 
 ### Wall Calendar Aesthetic
 The design leads with a full-width hero image 
-paired with each month — the same way a physical 
+paired with each month the same way a physical 
 calendar uses photography to mark time. Binding 
 holes, Cormorant Garamond serif type, and soft 
 paper textures complete the feel.
